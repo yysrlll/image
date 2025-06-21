@@ -1689,8 +1689,8 @@ owasp_a7,tactic_initial-access,RELATED_TO
 owasp_a8,tactic_persistence,RELATED_TO
 owasp_a9,tactic_collection,RELATED_TO
 owasp_a10,tactic_impact,RELATED_TO
-owasp_vuln_a1,tech_T1190,EXPLOITED_BY
-owasp_vuln_a3,tech_T1552,EXPLOITED_BY
-owasp_vuln_a7,tech_T1190,EXPLOITED_BY
+owasp_vuln_a1-1,tech_T1190,EXPLOITED_BY
+owasp_vuln_a3-1,tech_T1552,EXPLOITED_BY
+owasp_vuln_a7-1,tech_T1190,EXPLOITED_BY
 owasp_vuln_a1-1,tech_T1557,EXPLOITED_BY
 owasp_vuln_a2-1,tech_T1059,EXPLOITED_BY
