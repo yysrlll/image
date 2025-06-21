@@ -1,4 +1,4 @@
-node_id:ID,name,description,risk_rating,type,:LABEL
+id,name,description,risk_rating,type,labels
 owasp_a1,Broken Access Control,Access control enforces policy such that users cannot act outside of their intended permissions.,High,Risk,OWASP;Risk
 owasp_vuln_a1-1,Insecure Direct Object References,Applications that expose references to internal objects without proper authorization checks.,High,Vulnerability,OWASP;Vulnerability
 owasp_a2,Cryptographic Failures,Failures related to cryptography which often lead to exposure of sensitive data.,High,Risk,OWASP;Risk
